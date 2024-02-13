@@ -24,6 +24,3 @@ During my B.Eng., Mechanical Engineering degree at McGill University, I have wor
 The obtained results were analyzed and presented in two journal articles with acknowledgements:
 1. Lee, T. (2016). Impact of Gurney flaplike strips on the aerodynamic and vortex flow characteristic of a reverse delta wing. Journal of Fluids Engineering, 138(6), 061104.
 2. Lee, T., & Ko, L. S. (2017). Aerodynamics and vortex flowfield of a slender delta wing with apex flap and tip flap. Journal of Fluids Engineering, 139(5), 051106.
-
-
-{% endraw %}
