@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Undergraduate Research Assistant - Aerodynamics Research Group
+description: Overview of the work performed while working as an Undergraduate Research Assistant at the Aerodynamics Research Group, McGill Unviersity. 
 img: assets/img/1.jpg
 importance: 3
 category: fun
