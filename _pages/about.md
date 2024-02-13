@@ -6,12 +6,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. Candidate at CETHIL, INSA Lyon and LMFTEUS, Université de Sherbrooke with an interest in contributing to a deeper understanding of fluid mechanics, especially in turbulent flows and computational fluid mechanics. During my research career, I have gained on-hands experience with turbulent flows and turbulent flow modelling through experiments and numerical simulations. Currenly looking for a Postdoctoral fellowship position in the field of aeronautics, fluid mechanic, and computational fluid dynamics. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I envision my future research to span across interrelated sub-areas of CFD and turbulence modelling. The unifying theme of the research will be improving the accuracy of the current turbulence models and developing new techniques. 
+In continuation of my current focus in CFD and heat and mass transfer, my near-term plan is to work on the research issues that include following:
+-	LES model for wind turbines or Atmospheric Boundary Layer.
+-	Turbulent multiphase model for the aviation and automotive applications.
+-	Modal decomposition of the fluid flows – Proper/Dynamic/Optimal Orthogonal Decompositions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+While my experience is limited, I would also like to consider research in:
+-	Application of AI/ML in fluid flows. 
+-	Combustion modeling – shockwaves, detonation, etc. 
