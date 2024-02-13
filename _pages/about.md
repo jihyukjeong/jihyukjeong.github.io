@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. email: jihyuk.jeong.k@gmail.com.
+subtitle: <a href='https://lmfteus.wordpress.com/'>LMFTEUS</a>.<a href='https://cethil.insa-lyon.fr/en/'>CETHIL</a>.
 
 profile:
   align: right
