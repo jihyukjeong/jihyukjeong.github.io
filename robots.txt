@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https:/jihyukjeong.github.io/al-folio/sitemap.xml
+Sitemap: https:/jihyukjeong.github.io/sitemap.xml
