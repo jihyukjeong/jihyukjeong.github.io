@@ -2,79 +2,28 @@
 layout: page
 title: Undergraduate Research Assistant - Aerodynamics Research Group
 description: Overview of the work performed while working as an Undergraduate Research Assistant at the Aerodynamics Research Group, McGill Unviersity. 
-img: assets/img/1.jpg
+img: assets/img/aero_smoke.png
 importance: 3
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+During my B.Eng., Mechanical Engineering degree at McGill University, I have worked as an undergraduate research assistant at various research groups. Notably, I have worked at the Aerodynamics Research Group under the supervision of Professor Timothy H. Lee. The main objective was to investigate the performance of the reverse delta wing and the effect of the ground effect. Firstly, to investigate the lift and drag of the reverse delta wing in comparison to the NACA0012 airfoil and a delta wing, force balance experiment was performed. Then surface pressure measurements using seven-hole probes were conducted to create a pressure map of the NACA0012 airfoil with and without the influence of the ground effect. Finally, smoke-wire flow visualization and dye-flow visualization of the NACA0012 airfoil, delta, and reverse delta wing were performed to visualize the vortices and vortex breakdowns and the overall flow patterns. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/aero_dye.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/aero_smoke.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Dye (left) flow visualization and smoke-wire (right) flow visualization performed for the delta and reverse delta wing. 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The obtained results were analyzed and presented in two journal articles with acknowledgements:
+1. Lee, T. (2016). Impact of Gurney flaplike strips on the aerodynamic and vortex flow characteristic of a reverse delta wing. Journal of Fluids Engineering, 138(6), 061104.
+2. Lee, T., & Ko, L. S. (2017). Aerodynamics and vortex flowfield of a slender delta wing with apex flap and tip flap. Journal of Fluids Engineering, 139(5), 051106.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
