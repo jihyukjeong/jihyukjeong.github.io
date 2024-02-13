@@ -6,7 +6,7 @@ subtitle: <a href='https://lmfteus.wordpress.com/'>LMFTEUS</a>.<a href='https://
 
 profile:
   align: right
-  image: profile_pic.png
+  image: Kevin_Jeong_Photo-min.jpg
   image_circular: false # crops the image to make it circular
 
 
