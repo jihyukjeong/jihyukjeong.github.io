@@ -53,8 +53,8 @@
       "studyType": "PhD (Cotutelle)",
       "startDate": "2019-09",
       "endDate": "2024-04",
-      "score": ,
-      "courses": 
+      "score":"" ,
+      "courses": ""
     },
     {
       "institution": " Institut National des Sciences Appliquées de Lyon",
@@ -64,8 +64,8 @@
       "studyType": "PhD (Cotutelle)",
       "startDate": "2019-09",
       "endDate": "2024-04",
-      "score": ,
-      "courses": 
+      "score": "",
+      "courses": ""
     },
     {
       "institution": "Imperial College London",
@@ -76,7 +76,7 @@
       "startDate": "2017-09",
       "endDate": "2018-08",
       "score": "Distinction (4.00/4.00 Equivalent)",
-      "courses": 
+      "courses":"" 
     },
     {
       "institution": "McGill University",
@@ -87,7 +87,7 @@
       "startDate": "2012-09",
       "endDate": "2016-05",
       "score": "3.42/4.00",
-      "courses": 
+      "courses": ""
     }
   ],
   "awards": [
@@ -102,22 +102,22 @@
       "title": "Bourse Eurêka de la Faculté de Génie",
       "date": "2021",
       "awarder": "Université de Sherbrooke",
-      "url": ,
-      "summary": 
+      "url": "",
+      "summary": ""
     },
     {
       "title": "NSERC Undergraduate Student Research Award",
       "date": "2016",
       "awarder": "McGill University",
-      "url": ,
-      "summary": 
+      "url": "",
+      "summary": ""
     },
     {
       "title": "NSERC Undergraduate Student Research Award",
       "date": "2014",
       "awarder": "McGill University",
-      "url": ,
-      "summary": 
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
