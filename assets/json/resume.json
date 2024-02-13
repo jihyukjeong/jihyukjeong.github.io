@@ -27,8 +27,8 @@
       "name": "Université de Sherbrooke - INSA Lyon",
       "position": "PhD Candidate (Cotutelle)",
       "url": "",
-      "startDate": "2020-09",
-      "endDate": "2024-04",
+      "startDate": "2020",
+      "endDate": "2024",
       "summary": "CFD Modeling of the Heat and Mass Transfer in a Refrigerated Truck Trailer Equipped with Eutectic Plates",
       "highlights": ""
     }
@@ -47,45 +47,45 @@
   "education": [
     {
       "institution": "Université de Sherbrooke",
-      "location": "Sherbrooke, Canada",
+      "location": "Sherbrooke, CA",
       "url": "https://www.usherbrooke.ca/",
       "area": "Mechanical Engineering",
       "studyType": "PhD (Cotutelle)",
-      "startDate": "2019-09",
-      "endDate": "2024-04",
+      "startDate": "2019",
+      "endDate": "2024",
       "score":"" ,
       "courses": ""
     },
     {
       "institution": " Institut National des Sciences Appliquées de Lyon",
-      "location": "Villeurbanne, France",
+      "location": "Villeurbanne, FR",
       "url": "https://www.insa-lyon.fr/en/",
       "area": "Thermique-Energétique",
       "studyType": "PhD (Cotutelle)",
-      "startDate": "2019-09",
-      "endDate": "2024-04",
+      "startDate": "2019",
+      "endDate": "2024",
       "score": "",
       "courses": ""
     },
     {
       "institution": "Imperial College London",
-      "location": "London, United Kingdom",
+      "location": "London, UK",
       "url": "https://www.imperial.ac.uk/",
       "area": "Advanced Aeronautical Engineering",
       "studyType": "MSc",
-      "startDate": "2017-09",
-      "endDate": "2018-08",
+      "startDate": "2017",
+      "endDate": "2018",
       "score": "Distinction (4.00/4.00 Equivalent)",
       "courses":"" 
     },
     {
       "institution": "McGill University",
-      "location": "Montreal, Canada",
+      "location": "Montreal, CA",
       "url": "https://www.mcgill.ca/",
       "area": "Mechanical Engineering",
       "studyType": "BEng",
-      "startDate": "2012-09",
-      "endDate": "2016-05",
+      "startDate": "2012",
+      "endDate": "2016",
       "score": "3.42/4.00",
       "courses": ""
     }
