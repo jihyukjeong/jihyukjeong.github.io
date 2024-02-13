@@ -1,81 +1,29 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Master's Thesis
+description: Brief overview of the master's thesis project.
+img: assets/img/3Dmode.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Preliminary three-dimensional visualization of the coherent structures within the turbulent,
+chaotic wake behind the three-dimensional axisymmetric bluff body is explored. Various
+modal decomposition methods such as Proper Orthogonal Decomposition (POD), Dynamic
+Mode Decomposition (DMD) and Optimal Mode Decomposition (OMD) were used to extract
+the coherent realizations. From 19 local mean Centre of Pressure (COP) locations, $$\Theta_i$$, the
+dominant structures with the Strouhal number ≈ 0.2 and 0.06 were extracted utilizing OMD.
+For the ascending Θi with a concentrated local mean COP region of $$\Theta_i > π$$, the sequence
+of modes that are color-corrected and image-matched, $$S_{eq}$$, is obtained with the remainder
+matrix, $$R_{em}$$, to describe the dynamics of the realization. Finally, $$S_{eq}$$ and $$R_{em}$$ are put into
+polar coordinates with their corresponding $$\Theta_i$$ locations to three-dimensionally visualize the
+modes. The phenomena depicted by the three-dimensional realizations obtained concur with
+the general understanding of the global oscillatory and the bubble-pumping modes at their
+corresponding Strouhal number of 0.2 and 0.06.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+{% include figure.liquid path="assets/img/3Dmode.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+3D reliazation of the real (top) and imaginary (bot) $$St \approx 0.4$$, the first harmonic of the shedding mode. 
+Red an blue indicate the positive and negative velocity regions. Depending on the flow direction, the depicted 3D mode is subjected to change.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
