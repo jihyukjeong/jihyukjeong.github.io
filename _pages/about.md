@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affilations</a>. email: jihyuk.jeong.k@gmail.com.
+subtitle: <a href='#'>Affiliations</a>. email: jihyuk.jeong.k@gmail.com.
 
 profile:
   align: right
