@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lmfteus.wordpress.com/'>LMFTEUS</a>.<a href='https://cethil.insa-lyon.fr/en/'>CETHIL</a>.
+subtitle: <a href='https://umdearborn.edu/cecs/departments/industrial-and-manufacturing-systems-engineering'>University of Michgian</a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Post-Doctoral Research Assistant at University of Michigan - Dearborn, working on the Reduced Order Model (ROM) of a food-drying process via JSO II Oven. Previously, I have obtained my Ph.D. Mechanical Engineering from Université de Sherbrooke and Ph.D. Thermique-Energétique from INSA Lyon. My interest is in contributing to a deeper understanding of fluid mechanics, especially in turbulent flows and computational fluid mechanics. During my research career, I have gained on-hands experience with turbulent flows and turbulent flow modelling through experiments and numerical simulations. Currenly looking for a Postdoctoral fellowship position in the field of aeronautics, fluid mechanic, and computational fluid dynamics. 
+I am a Post-Doctoral Research Assistant at University of Michigan, working on the Reduced Order Model (ROM) of a food-drying process via JSO II Oven. Previously, I have obtained my Ph.D. Mechanical Engineering from Université de Sherbrooke and Ph.D. Thermique-Energétique from INSA Lyon. My interest is in contributing to a deeper understanding of fluid mechanics, especially in turbulent flows and computational fluid mechanics. During my research career, I have gained on-hands experience with turbulent flows and turbulent flow modelling through experiments and numerical simulations. Currenly looking for a Postdoctoral fellowship position in the field of aeronautics, fluid mechanic, and computational fluid dynamics. 
 
 I envision my future research to span across interrelated sub-areas of CFD and turbulence modelling. The unifying theme of the research will be improving the accuracy of the current turbulence models and developing new techniques. 
 In continuation of my current focus in CFD and heat and mass transfer, my near-term plan is to work on the research issues that include following:
