@@ -2,7 +2,7 @@
 layout: page
 title: Ph.D. Manuscript
 description: Brief overview of the Ph.D. manuscript
-img: assets/img/3Dmode.png
+img: assets/img/sm_vel.png
 importance: 1
 category: work
 related_publications: false
