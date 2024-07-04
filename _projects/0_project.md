@@ -16,4 +16,4 @@ Furthermore, a granular multiphase Eulerian-Eulerian model was developed to pred
 
 {% include figure.liquid path="assets/img/sm_vel.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-Velocity magnitude of the melted PCM for $A_{mush} = 10^6$ at four different times.
+Velocity magnitude of the melted PCM at four different times.
